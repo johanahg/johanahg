@@ -1,5 +1,5 @@
 ### Kia Ora! I'm Johanah 👋
-My main interests in the field are mostly with Development and Security.
+My main interests in the field are currently with Development and Security.
 However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
 🔭 I’m currently working on a collaborative project to develop a clone of the 1989 Atari game 'Chip's Challenge', with students from my Software Development class. 
