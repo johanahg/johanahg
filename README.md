@@ -1,5 +1,12 @@
-### Hi there 👋
+### Kia Ora! I'm Johanah 👋
+My main interests in the field are mostly with Development and Security.
+However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
+🔭 I’m currently working on a collaborative project to develop a clone of the 1989 Atari game 'Chip's Challenge', with students from my Software Development class. 
+
+🌱 Currently, I'm learning and practicing how to program with SQL and JavaScript, and have recently started working collaboratively in group projects! 
+
+📫 How to reach me: johanah.gloria@gmail.com
 <!--
 **johanahg/johanahg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
