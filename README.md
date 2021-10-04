@@ -4,7 +4,7 @@ However, I am open to explore new roles and welcome any opportunity to learn and
 
 🔭 I’m currently working on a collaborative project to develop a clone of the 1989 Atari game 'Chip's Challenge', with students from my Software Development class. 
 
-🌱 At the moment, I'm learning how to program with SQL and JavaScript, and have recently started working collaboratively in group projects! 
+🌱 At the moment, I'm learning how to program with SQL, JavaScript, HTML and CSS, and have recently started working collaboratively in group projects! 
 
 📫 How to reach me: johanah.gloria@gmail.com
 <!--
