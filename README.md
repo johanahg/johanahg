@@ -2,9 +2,9 @@
 My main interests in the field are currently with Development roles.
 However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
-🔭 Currently, I'm working on a project to create and develop a music discord bot with my friends!
+🔭 Currently, I'm working on creating a music bot for Discord with my friends (just for fun)!
 
-🌱 At the moment, I'm learning how to write shell scripts with on Linux for Cyber Security, and the fundementals of User Experience Engineering
+🌱 Right now I'm learning how to write shell scripts with on Linux for my Cyber Security class, and the fundementals of User Experience Engineering
 
 📫 How to reach me: johanah.gloria@gmail.com
 <!--
