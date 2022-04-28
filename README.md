@@ -1,10 +1,10 @@
 ### Kia Ora! I'm Johanah 👋
-My main interests in the field are currently with Development and Security.
+My main interests in the field are currently with Development roles.
 However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
-🔭 I’m currently working on a collaborative project to develop a clone of the 1989 Atari game 'Chip's Challenge', with students from my Software Development class. 
+🔭 Currently, I'm working on a project to create and develop a music discord bot with my friends!
 
-🌱 At the moment, I'm learning how to program with SQL, JavaScript, HTML and CSS, and have recently started working collaboratively in group projects! 
+🌱 At the moment, I'm learning how to write shell scripts with on Linux for Cyber Security, and the fundementals of User Experience Engineering
 
 📫 How to reach me: johanah.gloria@gmail.com
 <!--
