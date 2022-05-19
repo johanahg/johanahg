@@ -1,5 +1,5 @@
 ### Kia Ora! I'm Johanah 👋
-My main interests in the field are currently with Development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field
+My main interests in the field are currently with development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field
 
 🌱 At university, I'm learning how to write shell scripts with on Linux for my Cyber Security class, and the fundementals of User Experience Engineering.
 
