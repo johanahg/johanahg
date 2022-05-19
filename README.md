@@ -3,7 +3,7 @@ My main interests in the field are currently with Development roles.
 However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
 🔭 Currently, I'm working on creating a music bot for Discord with my friends (just for fun!), and designing/analysing an interface for a group project in my UX class. Here is a sneak peek!
-![image](https://user-images.githubusercontent.com/87348118/169195158-fa4170db-ac7a-4ec1-823e-d8094600b608.png)
+![image](https://user-images.githubusercontent.com/87348118/169195336-e69e3c05-2b40-413f-b1c1-9494b20ffc3a.png)
 
 
 🌱 At university, I'm learning how to write shell scripts with on Linux for my Cyber Security class, and the fundementals of User Experience Engineering.
