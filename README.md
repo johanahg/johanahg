@@ -2,7 +2,7 @@
 My main interests in the field are currently with Development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field
 
 🔭 Currently, I'm working on creating a Discord music bot for with my friends (just for fun!) 
-🔭 At university, I've been creating and analysing designs for a finance management app with a group for our UX class. Here is a sneak peek at our designs!
+🔭 At university, I've been creating and analysing designs for a finance management app with my group for our UX class. Here is a sneak peek of our designs!
 
 ![image](https://user-images.githubusercontent.com/87348118/169195336-e69e3c05-2b40-413f-b1c1-9494b20ffc3a.png)
 
