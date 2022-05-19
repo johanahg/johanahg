@@ -4,7 +4,7 @@ However, I am open to explore new roles and welcome any opportunity to learn and
 
 🔭 Currently, I'm working on creating a music bot for Discord with my friends (just for fun)!
 
-🌱 Right now I'm learning how to write shell scripts with on Linux for my Cyber Security class, and the fundementals of User Experience Engineering
+🌱 At university, I'm learning how to write shell scripts with on Linux for my Cyber Security class, and the fundementals of User Experience Engineering.
 
 📫 How to reach me: johanah.gloria@gmail.com
 <!--
