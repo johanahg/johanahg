@@ -1,13 +1,13 @@
 ### Kia Ora! I'm Johanah 👋
-My main interests in the field are currently with development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field
+My main interests in the field are currently with mobile and front end development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field
 
-🌱 I'm learning how to write shell scripts with on Linux for my Cyber Security class, and the fundementals of User Experience Engineering.
+🌱 I'm currently learning how to perform risk assessments from given case studies for my Cyber Security class, and how to create a mobile app.
 
-🔭 Currently, I'm working on creating a Discord music bot for with my friends (just for fun!) 
-🔭 At university, I've been collaboratively creating and analysing designs for a finance management app with my group for our UX class. Here is a sneak peek of our designs!
+🔭 At university, I'm currently developing a medication reminder mobile app with my group using React Native and JavaScript for our Mobile Development class. <!-- Here is a sneak peek of some of the screens I've been working on! ADD PIC-->
 
+
+🔭 Earlier this year I learnt the fundamentals of User Experience Engineering and how to analyse designs and had the opportunity to create some with my group! Here are some of the screens I worked on!
 ![image](https://user-images.githubusercontent.com/87348118/169195336-e69e3c05-2b40-413f-b1c1-9494b20ffc3a.png)
-
 
 📫 How to reach me: johanah.gloria@gmail.com
 <!--
