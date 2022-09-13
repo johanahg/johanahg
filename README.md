@@ -7,7 +7,7 @@ My main interests in the field are currently with mobile and front end developme
 
 ![image](https://user-images.githubusercontent.com/87348118/189780384-ae87ad5a-ffba-4851-b113-c228d93274f3.png)
 
-🔭 Earlier this year I learnt the fundamentals of User Experience Engineering including how to analyse designs, and even had the opportunity to create some designs for a potential financial management app with my group. Here are some of the screens I worked on!
+🔭 Earlier this year I learnt the fundamentals of User Experience Engineering including how to analyse designs, and even had the opportunity to create some designs for a potential financial management app with my group. Here are some of the screens I designed!
 
 ![image](https://user-images.githubusercontent.com/87348118/169195336-e69e3c05-2b40-413f-b1c1-9494b20ffc3a.png)
 
