@@ -3,7 +3,8 @@ My main interests in the field are currently with mobile and front end developme
 
 🌱 I'm currently learning how to perform risk assessments from given case studies for my Cyber Security class, and how to create a mobile app.
 
-🔭 At university, I'm currently developing a medication reminder mobile app with my group using React Native and JavaScript for our Mobile Development class. <!-- Here is a sneak peek of some of the screens I've been working on! ADD PIC-->
+🔭 At university, I'm currently developing a medication reminder mobile app with my group using React Native and JavaScript for our Mobile Development class. Here are the screens I've been working on!
+![image](https://user-images.githubusercontent.com/87348118/189780384-ae87ad5a-ffba-4851-b113-c228d93274f3.png)
 
 
 🔭 Earlier this year I learnt the fundamentals of User Experience Engineering including how to analyse designs, and even had the opportunity to create some designs for a potential financial management app with my group. Here are some of the screens I worked on!
