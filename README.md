@@ -1,4 +1,4 @@
-### Kia Ora! I'm Johanah 👋
+<!--### Kia Ora! I'm Johanah 👋
 My main interests in the field are currently with mobile and front end development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
 🌱 I'm currently learning how to perform risk assessments from given case studies for my Cyber Security class, and how to create a mobile app using React Native!
@@ -12,7 +12,7 @@ My main interests in the field are currently with mobile and front end developme
 ![image](https://user-images.githubusercontent.com/87348118/169195336-e69e3c05-2b40-413f-b1c1-9494b20ffc3a.png)
 
 📫 How to reach me: johanah.gloria@gmail.com
-<!--
+
 **johanahg/johanahg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
