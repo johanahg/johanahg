@@ -1,5 +1,5 @@
-<!--### Kia Ora! I'm Johanah 👋
-My main interests in the field are currently with mobile and front end development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
+### Kia Ora! I'm Johanah 👋
+<!--My main interests in the field are currently with mobile and front end development roles. However, I am open to explore new roles and welcome any opportunity to learn and grow within the field :)
 
 🌱 I'm currently learning how to perform risk assessments from given case studies for my Cyber Security class, and how to create a mobile app using React Native!
 
